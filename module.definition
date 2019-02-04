@@ -1,0 +1,20 @@
+<uniview>
+<name>Solar System Evolution</name>
+
+<description>
+Solar System Evolution Simulation
+</description>
+
+<creator>
+Created by:
+Aaron Geller, Mark SubbaRao, Adler Planetarium
+using AMUSE (see amusecode.org)
+</creator>
+
+<legalinfo>CC-by</legalinfo>
+
+<version>1.0</version>
+
+<creationdate>June 18th, 2016</creationdate>
+
+</uniview>
